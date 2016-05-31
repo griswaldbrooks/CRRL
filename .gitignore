@@ -238,3 +238,9 @@ pip-log.txt
 *.mtc1
 *.out
 *.synctex.gz
+
+# Videos
+*.avi
+*.AVI
+*.mp4
+*.MP4
